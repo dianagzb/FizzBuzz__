@@ -6,4 +6,5 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(FizzBuzz__ main.cpp
         mainueberarbeitet.cpp
         main3.cpp
-        fizzbuzznew.cpp)
+        fizzbuzznew.cpp
+        FIZZBUZZ.cpp)
