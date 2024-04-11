@@ -7,4 +7,6 @@ add_executable(FizzBuzz__ main.cpp
         mainueberarbeitet.cpp
         main3.cpp
         fizzbuzznew.cpp
-        FIZZBUZZ.cpp)
+        FIZZBUZZ.cpp
+        FIZZBUZZ++.cpp
+)
